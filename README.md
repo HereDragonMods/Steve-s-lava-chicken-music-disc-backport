@@ -1,4 +1,4 @@
-# Steve-s-lava-chicken-music-disc-backport
+# Steves-lava-chicken-music-disc-backport
 from modrinth/curseforge
 
 https://modrinth.com/mod/steves-lava-chicken-music-disc-backport
